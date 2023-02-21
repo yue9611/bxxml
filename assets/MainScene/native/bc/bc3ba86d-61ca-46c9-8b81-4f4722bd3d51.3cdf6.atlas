@@ -1,0 +1,20 @@
+
+SHENGJIKONGLONG.png
+size: 169,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JIAN
+  rotate: false
+  xy: 135, 28
+  size: 32, 103
+  orig: 32, 103
+  offset: 0, 0
+  index: -1
+TE
+  rotate: false
+  xy: 2, 2
+  size: 131, 129
+  orig: 131, 129
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 380,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动效02
+  rotate: true
+  xy: 167, 204
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+矩形-13_0000_矩形-13-拷贝-3
+  rotate: true
+  xy: 2, 169
+  size: 215, 163
+  orig: 220, 170
+  offset: 2, 5
+  index: -1
+矩形-13_0001_矩形-13-拷贝-2
+  rotate: true
+  xy: 216, 2
+  size: 215, 162
+  orig: 220, 170
+  offset: 2, 3
+  index: -1
+矩形-13_0002_矩形-13-拷贝
+  rotate: false
+  xy: 167, 219
+  size: 210, 165
+  orig: 220, 170
+  offset: 2, 3
+  index: -1
+矩形-13_0003_矩形-13
+  rotate: false
+  xy: 2, 2
+  size: 212, 165
+  orig: 220, 170
+  offset: 5, 3
+  index: -1
